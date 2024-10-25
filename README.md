@@ -2,6 +2,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on writing down a math book for BAC students in Algeria
-- 📫 How to reach me : my discord dricihachem
+- 📫 How to reach me : discord dricihachem
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like potatos i guess
+- ⚡ Fun fact: i like ifri fraise
